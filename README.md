@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Personal-Profile
 # 💫 About Me:
-I am a second year Master's student at Indian Institute of Technology Hyderabad in the department of Artificial Intelligence and Machine Learning working under the supervision of Dr.Maunendra Sankar Desarkar.<br> 
+I am a second year Master's student at Indian Institute of Technology,Hyderabad in the department of Artificial Intelligence and Machine Learning working under the supervision of Dr.Maunendra Sankar Desarkar.<br> 
 
 
 ## 🌐 Socials:
